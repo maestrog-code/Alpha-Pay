@@ -1,0 +1,7 @@
+{
+  "name": "Alpha Pay - Global Remittance",
+  "description": "A high-performance currency exchange application with live Google rates and automated fee calculation based on Alpha Pay tier structures.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
